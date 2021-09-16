@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto',sans-serif;
+    text-align: center;
+    margin-left: 15%;
+    background-image: linear-gradient(to right,purple,white);
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
+table, th, td{
+    border: 2px solid black;
+    text-align: center;
+}
